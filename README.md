@@ -92,7 +92,7 @@ Google 的服务在国内面临的问题大家都懂：
 
 Gemini CLI 支持自定义 API 端点，可以通过 OpenAI 兼容接口使用。配合中转服务，国内直连就能用。
 
-我用的是 [MaxRouter](https://www.maxrouter.ai)，之前用 Claude Code 和 Codex CLI 时就在用这个平台。同一个 Key 可以调用所有模型 — Claude、GPT、Gemini、DeepSeek 等 80+ 模型，不用分别注册不同厂商的账号。
+我用的是 [MaxRouter](https://www.maxrouter.ai?utm_source=github&utm_medium=article&utm_campaign=existing_articles&utm_content=gemini_api_guide)，之前用 Claude Code 和 Codex CLI 时就在用这个平台。同一个 Key 可以调用所有模型 — Claude、GPT、Gemini、DeepSeek 等 80+ 模型，不用分别注册不同厂商的账号。
 
 ## 配置步骤
 
@@ -100,7 +100,7 @@ Gemini CLI 支持自定义 API 端点，可以通过 OpenAI 兼容接口使用�
 
 如果你之前已经注册过 MaxRouter（比如跟着 [Claude Code 教程](https://github.com/MaxRouterAI/claude-code-guide) 或 [Codex CLI 教程](https://github.com/MaxRouterAI/openai-api-guide)），直接用同一个 Key。
 
-没注册的话，访问 [www.maxrouter.ai](https://www.maxrouter.ai) 注册（送 ¥10 体验金），进入控制台 → 密钥管理 → 创建密钥。
+没注册的话，访问 [www.maxrouter.ai](https://www.maxrouter.ai?utm_source=github&utm_medium=article&utm_campaign=existing_articles&utm_content=gemini_api_guide) 注册（送 ¥10 体验金），进入控制台 → 密钥管理 → 创建密钥。
 
 ### 2. 配置 Gemini CLI
 
@@ -351,8 +351,8 @@ MaxRouter 不存储对话内容和代码，请求直接转发到官方 API。
 - [Gemini CLI GitHub](https://github.com/google-gemini/gemini-cli)
 - [Google AI Studio](https://aistudio.google.com)
 - [Gemini 官方文档](https://ai.google.dev/docs)
-- [MaxRouter](https://www.maxrouter.ai) — 我用的 API 平台
-- [MaxRouter 文档](https://www.maxrouter.ai/docs)
+- [MaxRouter](https://www.maxrouter.ai?utm_source=github&utm_medium=article&utm_campaign=existing_articles&utm_content=gemini_api_guide) — 我用的 API 平台
+- [MaxRouter 文档](https://www.maxrouter.ai/docs?utm_source=github&utm_medium=article&utm_campaign=existing_articles&utm_content=gemini_api_guide)
 - [Claude Code 国内教程](https://github.com/MaxRouterAI/claude-code-guide)
 - [Codex CLI 国内教程](https://github.com/MaxRouterAI/openai-api-guide)
 
